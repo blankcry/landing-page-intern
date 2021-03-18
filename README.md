@@ -1,5 +1,9 @@
 # landing-page-intern
 single page Landing page created in React for internship opportunity 
+
+To run locally, you'll need nodeJs
+Type npm install 
+then npm start
 1. Discuss briefly why you chose the Language and or framework. 
 
   a. Simplicity
