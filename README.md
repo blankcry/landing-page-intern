@@ -9,8 +9,8 @@ single page Landing page created in React for internship opportunity
  
   b. Easy to learn
  
-      Anyone with a basic previous knowledge in programming can easily understand React while Angular and Ember are referred to as ‘Domain-specific Language’, implying that it
-      is difficult to learn them. To react, you just need basic knowledge of CSS and HTML.
+      Anyone with a basic previous knowledge in programming can easily understand React while Angular and Ember are referred to as ‘Domain-specific Language’, 
+      implying that it is difficult to learn them. To react, you just need basic knowledge of CSS and HTML.
  
   c. Native Approach
 
@@ -18,5 +18,4 @@ single page Landing page created in React for internship opportunity
       time, we can make IOS, Android and Web applications.
       
 2. Discuss briefly your choice of design elements such as colors and fonts. 
-      My choice of color and fonts were based on what would catch the eye, as a fintech site, it should be able to capture the eyes of the page visitors, allowing them to concentrate 
-      on what the page is saying whilst not making them carried away.
+      My choice of color and fonts were based on what would catch the eye, as a fintech site, it should be able to capture the eyes of the page visitors, allowing them to      concentrate on what the page is saying whilst not making them carried away.
