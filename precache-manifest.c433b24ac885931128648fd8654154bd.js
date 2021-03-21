@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73bc33301b03df50e2a2b8816b8fb584",
+    "revision": "a44f941c78a748034e4ba6d9bf0c28b1",
     "url": "/blankcry/landing-page-intern.git/index.html"
   },
   {
-    "revision": "60623d965bb02978d681",
+    "revision": "fdd4aa04cd6e3eb93355",
     "url": "/blankcry/landing-page-intern.git/static/css/main.7c0a551b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blankcry/landing-page-intern.git/static/js/2.086eb93e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60623d965bb02978d681",
-    "url": "/blankcry/landing-page-intern.git/static/js/main.7928f47c.chunk.js"
+    "revision": "fdd4aa04cd6e3eb93355",
+    "url": "/blankcry/landing-page-intern.git/static/js/main.a02e93d7.chunk.js"
   },
   {
     "revision": "2d3c44c234fcb7d7b058",

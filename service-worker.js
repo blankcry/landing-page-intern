@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blankcry/landing-page-intern.git/precache-manifest.647f1582971651db355b7b86e6239afd.js"
+  "/blankcry/landing-page-intern.git/precache-manifest.c433b24ac885931128648fd8654154bd.js"
 );
 
 self.addEventListener('message', (event) => {
