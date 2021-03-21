@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/blankcry/landing-page-intern.git/static/css/main.7c0a551b.chunk.css",
+    "main.js": "/blankcry/landing-page-intern.git/static/js/main.a02e93d7.chunk.js",
+    "main.js.map": "/blankcry/landing-page-intern.git/static/js/main.a02e93d7.chunk.js.map",
+    "runtime-main.js": "/blankcry/landing-page-intern.git/static/js/runtime-main.1afcdfa3.js",
+    "runtime-main.js.map": "/blankcry/landing-page-intern.git/static/js/runtime-main.1afcdfa3.js.map",
+    "static/js/2.086eb93e.chunk.js": "/blankcry/landing-page-intern.git/static/js/2.086eb93e.chunk.js",
+    "static/js/2.086eb93e.chunk.js.map": "/blankcry/landing-page-intern.git/static/js/2.086eb93e.chunk.js.map",
+    "index.html": "/blankcry/landing-page-intern.git/index.html",
+    "precache-manifest.c433b24ac885931128648fd8654154bd.js": "/blankcry/landing-page-intern.git/precache-manifest.c433b24ac885931128648fd8654154bd.js",
+    "service-worker.js": "/blankcry/landing-page-intern.git/service-worker.js",
+    "static/css/main.7c0a551b.chunk.css.map": "/blankcry/landing-page-intern.git/static/css/main.7c0a551b.chunk.css.map",
+    "static/js/2.086eb93e.chunk.js.LICENSE.txt": "/blankcry/landing-page-intern.git/static/js/2.086eb93e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/blankcry/landing-page-intern.git/static/media/istockphoto-1145371340-612x612.e992addf.jpg",
+    "static/media/hero.svg": "/blankcry/landing-page-intern.git/static/media/hero.0e48089f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1afcdfa3.js",
+    "static/js/2.086eb93e.chunk.js",
+    "static/css/main.7c0a551b.chunk.css",
+    "static/js/main.a02e93d7.chunk.js"
+  ]
+}
